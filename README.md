@@ -11,6 +11,7 @@ Having worked with SVG files in the past, I was really excited to apply my knowl
 I would like to expand the functionality of this app in the future to allow the user to select a custom shape and enter the X and Y coordinates of at least 3 vertices.
 
 ## Table of Contents
+- [Credits](#credits)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Links](#links)
@@ -19,6 +20,10 @@ I would like to expand the functionality of this app in the future to allow the 
 - [Usage](#usage)
 - [Walkthrough](#walkthrough)
 - [Screenshots](#screenshots)
+
+## Credits
+
+I used code from [this article](https://linuxhint.com/check-if-string-is-hex-in-javascript/) in the `hexValueValidation` function in the `./lib/logomaker.js` file. This code checks if a string is a Hex value and I modified the regex slightly to check for an optional leading `#` symbol.
 
 ## User Story
 
